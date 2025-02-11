@@ -2,8 +2,6 @@
 ### 
 ![28Ih](https://github.com/user-attachments/assets/daa249ca-9aca-434c-ac74-fe38ddc3e808)
 
-
-
 <!--
 **MrN3v3s/MrN3v3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +19,4 @@ Here are some ideas to get you started:
 
 ![8Q9b](https://github.com/user-attachments/assets/29514d7c-1d5d-4e12-88b1-dbd08e082886)
 -->
+![Neves's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrN3v3s&show_icons=true&theme=github_dark#responsive-card-theme)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrN3v3s&theme=github_dark&layout=donut&size_weight=0.5&count_weight=0.5)](https://github.com/MrN3v3s/github-readme-stats)
