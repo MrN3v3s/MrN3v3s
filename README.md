@@ -1,6 +1,9 @@
-### Hi there 👋
-### Welcome!
-# <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1078369" style='border:none;'></iframe>
+# Hi there 👋 Welcome !
+### 
+![28Ih](https://github.com/user-attachments/assets/daa249ca-9aca-434c-ac74-fe38ddc3e808)
+
+
+
 <!--
 **MrN3v3s/MrN3v3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![3II9](https://github.com/user-attachments/assets/502cd1d8-a798-4a59-8cd7-3d85ca6e572a)
+
+![8Q9b](https://github.com/user-attachments/assets/29514d7c-1d5d-4e12-88b1-dbd08e082886)
 -->
